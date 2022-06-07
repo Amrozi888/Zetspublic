@@ -12,23 +12,23 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281322667077']
-global.premium = ['6281215710461']
-global.ownername = 'Romli Suhanda'
-global.botname = 'ZxyuuBOTZ-MD'
-global.packname = '© ZxyuuRomm'
-global.gc = 'https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179'
+global.owner = ['6287773973818']
+global.premium = ['6285828764046']
+global.ownername = 'rozi'
+global.botname = '⳹ ❋ཻུ۪۪Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.packname = '© ⳹ ❋ཻུ۪۪Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
 global.limitawal = '100'
-global.author = 'XzyuuNaii'
+global.author = 'zifabotz'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
     success: '*DONE NGAB..*',
-    admin: '*Fitur Khusus Admin NGNTD!!*',
-    botAdmin: '*Botnya Admin Dulu Lah Knt*l*',
-    owner: '_*Lu Bukan Owner Gua Bangke*_',
-    group: '_*Mikir dikit anj!!,ini bukan group*_',
+    admin: '*emng lu admin mau gunain fiturnye?*',
+    botAdmin: '*Bot dah masuk tapi gak admin lawak Lo min',
+    owner: '_*kau bukan owner gw tolol_',
+    group: '_*Mikir dikit anjing,ini bukan grub*_',
     private: '*Chat pribadi!!*',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: '*Wait Tod Lagi Proses!!*',
