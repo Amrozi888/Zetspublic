@@ -40,7 +40,7 @@ global.limitawal = {
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
-global.menu = fs.readFileSync('./media/IMG-20220605-WA0030.jpg')
+global.menu = fs.readFileSync('./media/menu.jpg')
 global.allmenu = fs.readFileSync('./media/IMG-20220605-WA0033.jpg')
 global.thumb = fs.readFileSync('./media/IMG-20220604-WA0033.jpg')
 
